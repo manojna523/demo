@@ -1,1 +1,35 @@
-commands
+ls      displays content of present directory
+ls –l   longlisting current contents of a directory(detailed list)
+ls –a  	hidden files in the list
+echo 	  to print some content on screen
+cat	    displays content of existing file on the system
+env	    shows system defined variables on screen
+touch	  create a file on linux based system
+mkdir	  To create adirectory
+vi	    Default editor
+pwd	    prints the path of current directory
+cd 	    Change the current directory
+chroot	used to change root directory
+clear 	used to clear the screen
+env	    used to print environment or system defined variables
+rm      to delete files or directories
+rm –r   to delete just the directory
+rmdir	  to delete empty directory
+man	    to know more about a command
+cp	    to copy files
+mv      To move files
+sudo	  To communicate directly with root directory
+Df      To see the available disk space
+Df –a   Shows also the info in disk space
+Df -h   Human readable form
+Du	    To know the disk usage of the file system
+alias	  Lets u give your own name to a command or sequence of commands
+Chmod   Change permissions
+chown	  Change the owner
+diff	  Compares two text files and shows the differences between them
+Find	  To track down files
+finger	Gives info about user
+free	  gives you a summary of the memory usage with your computer
+grep	  searches for lines which contain a search pattern
+gzip	  compresses files
+
